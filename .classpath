@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="G:/-WEB &amp; DESIGN-/-ECLIPSE-/craftbukkit-1.4.6-R0.4-20130105.234906-5.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
