@@ -1,0 +1,4 @@
+McnoFirework
+============
+
+Minecraft Fireworks Plugin
