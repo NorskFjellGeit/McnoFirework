@@ -1,0 +1,15 @@
+name: MCno Firework
+main: no.mcno.firework.McnoFirework
+version: 1.0
+description: >
+             MineCraft Norway Fireworks Plugin
+commands:
+  firework:
+    description: Fyrverkeri
+    permission: mcnof.firework
+
+
+permissions:
+  mcnof.firework:
+    description: Firework.
+    default: op
